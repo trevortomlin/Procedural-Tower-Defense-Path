@@ -1,5 +1,5 @@
 # Procedural-Tower-Defense-Path
-A infinite voxel path that is procedural generated in Unity.
+A infinite voxel path that is procedural generated in Unity. <br>
 <img src="path-example.JPG" width=40% height=40%>
 
 ## Description
